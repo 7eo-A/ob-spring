@@ -23,7 +23,7 @@
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+| `api_body` | `JSON` | **Required**. Your API body |
 
 
 ## Tech Stack 
