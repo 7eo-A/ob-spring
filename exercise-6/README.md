@@ -18,7 +18,7 @@
 #### Add new item
 
 ```http
-  GET /api/laptop/add
+  POST /api/laptop/add
 ```
 
 | Parameter | Type     | Description                |
